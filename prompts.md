@@ -13,3 +13,5 @@
 11. ejecuta flutter test y dime si pasa
 12. crea los archivos bundle, el zip y los demas que pidan con el apellido Padilla
 13. Sí, corrige la conclusión y las citas.
+14. hiciste los commits?
+15. cambie respuestas.md crea los archivos y haz el commit
